@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-01T14:42:27Z" name="Suite" finished-at="2023-02-01T14:43:01Z" duration-ms="34320">
+    <groups>
+    </groups>
+    <test started-at="2023-02-01T14:42:27Z" name="Test" finished-at="2023-02-01T14:43:01Z" duration-ms="34320">
+      <class name="com.NeoStox.TestCases.DashboardPageTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.NeoStox.TestCases.DashboardPageTest@6b53bcc2]" started-at="2023-02-01T14:42:28Z" name="initializeDriver" finished-at="2023-02-01T14:43:00Z" duration-ms="31846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="ExpandAndCollapse()[pri:0, instance:com.NeoStox.TestCases.DashboardPageTest@6b53bcc2]" started-at="2023-02-01T14:43:00Z" name="ExpandAndCollapse" description="To Validate expand and collapse functionality of Watchlist" finished-at="2023-02-01T14:43:00Z" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExpandAndCollapse -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NeoStox.TestCases.DashboardPageTest@6b53bcc2]" started-at="2023-02-01T14:43:00Z" name="teardown" finished-at="2023-02-01T14:43:01Z" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="openReport()[pri:0, instance:com.NeoStox.TestCases.DashboardPageTest@6b53bcc2]" started-at="2023-02-01T14:43:02Z" name="openReport" finished-at="2023-02-01T14:43:02Z" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openReport -->
+      </class> <!-- com.NeoStox.TestCases.DashboardPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
